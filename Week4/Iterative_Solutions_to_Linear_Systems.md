@@ -12,11 +12,12 @@
   - Raise variables to the k power (aka, the value at the previous solution)
 
 ## Gauss-Seidel Method
-- Use Jacobi Method but use x^k instead of x^(k-1)
+- Successive version of Jacobi
 ![](img/gauss_seidel.png)
 - Takes less iterations to solve
-- Same as the Jacobi, except when it comes to the last x (i.e. x3), instead of x3^k, you use x2^(k+1)
-  - x2^(k+1) is the term we JUST calculated right before
+- Same as the Jacobi, except instead of always copying the previous iteration's solution, when we solve for a variable, **use** it in the same iteration when it appears
+  - For example, if you solve for x1, and x2 needs an x1, don't use x1^0, use that newly found x1^1
+  - Same for other variables!
 
 ## Gauss-Seidel w/ SOR
 - Add a relaxation factor (w)
