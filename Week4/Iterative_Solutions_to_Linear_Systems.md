@@ -4,7 +4,7 @@
 - Assume all diagonal elements are nonzero
   - If not the case; arrange for this
 ![](img/jacobi.png)
-- Consider x0 = [0, 0, 0, ...]
+- Consider x0 = \[0, 0, 0, ...\]
 - The more iterations, the more accurate
 
 ## Gauss-Seidel Method
@@ -16,6 +16,13 @@
 - Add a relaxation factor (w)
 ![](img/gauss_seidel_sor.png)
 - If w = 1, equivalent to [Gauss-Seidel Method](##-Gauss-Seidel-Method)
+- Basically, that fancy sum function is just what you get when you isolate your variable
+  - Ex: 7a + 1b -1c + 2d = 3
+  - Solve for a = (3 - b + c - 2d)/7
+  - w\[(3 - b + c - 2d)/7\] - (1 - w)a^(k-1)
+- a^(k-1) is just the previous SOR solution
+  - So if this is k = 1 iteration, k-1 is k = 0, which is always \[0, 0, 0, ...\]
+  - So (1 - w)(0) in this case!
 
 ## Convergence
 - To converge starting vector, coefficient matrix
