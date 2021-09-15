@@ -1,0 +1,57 @@
+# Tuesday
+- What are the 3 pillars of democrat
+  - Equal rights
+  - Equal justice
+  - Majority rule principle
+- Is it a democracy and when?
+  - Yes since the 1960s?
+  - More or less
+- What are "civil rights"
+  - Freedom to participate in elections
+  - To enjoy public facilities
+  - To take part in public stuff like good jobs
+- Do Americans enjoy equal rights and justice in the USA today
+  - Possibly no
+- What role has race and racism played throughout American history
+  - A HUGE role
+  - Obscure
+- What was the Civil War about primarily
+  - Slavery
+- What were the outcomes
+  - States rights to protect slavery
+  - The north won
+  - Abolition of slavery
+  - Civil war amendments 1865
+- How much progress did AA's make during Reconstruction
+  - A lot
+- How did whites in the South react
+  - They feared AA's would corrupt society
+  - Fear b/c society was built on slavery
+  - Created KKK
+- Which Supreme Court decision established the separate but equal
+  - Plessy v. Furuson
+- What is the KKK
+  - Irrational killing and hate
+  - 1920s, 1950s, 1960s were the heights
+- What role did the Birth of a Nation play
+  - Inaccurate movie
+  - Blatant racism
+  - Gave rise to the KKK AGAIN
+  - Makes Reconstruction look like white punishment
+- What is the "lost cause" ideology
+  - Slavery was the "natural" position
+  - Revision of history
+  - Lost Cause: a document that re-explained the amendment
+    - Convinced others that this was about state rights
+  - Built confederate soldier statues
+  - Revised history books
+  - Memorialized the confederate soldiers
+- Brown v. Board of Education: overturned Plessy
+- Montgomery Bus Boycott: equal rights for public facilities
+- Little Rock Nine: federal troops to allow black kids to enter school
+- Freedom Riders: whites and blacks rode buses together
+- March on Washington: MLK jr. I have a dream
+- 16th Street Baptist Church Bombing: black church bombing
+- Bloody Sundays: march on bridge; whites charged and tear gassed; beaten
+
+# Thursday
