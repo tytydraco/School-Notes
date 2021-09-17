@@ -55,3 +55,41 @@
 - Bloody Sundays: march on bridge; whites charged and tear gassed; beaten
 
 # Thursday
+- What were the seminal achievements of the Civil Rights movements
+  - Civil Rights act
+  - Voting Rights act
+- Why was it so successful
+  - Dedication and sacrifice
+  - Nonviolent
+  - Leadership
+  - Strategy
+- Have there been any progress since 1960
+  - No for AA, maybe even a reversal
+  - Yes for LGBTQ
+  - Disabilities and housing still needs help
+- What is affirmative action
+  - Focused on AAs
+  - Race is a social construct
+  - Giving advantages and forcing integration
+  - Much less affirmative action nowadays
+- What is racial resentment
+  - White people upset about losing power
+- What is racial disparity
+  - Percent of African Americans voting is lower
+  - Less wealth, more education, etc
+  - Statistics are disparity
+- Why?
+  - Racism
+  - Outcome of stereotypes and racial superiority
+  - White people want power so they create white supremacy
+- Is there systemic racism in US today
+  - Yes
+- What is it
+  - Is there racist bias in the system
+- What about electoral
+  - ?
+- Criminal justice?
+  - Yes
+- Research
+  - Yes
+- 
