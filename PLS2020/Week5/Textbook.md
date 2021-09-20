@@ -39,3 +39,22 @@
 - Lobbyists pay people to get their bill
 
 # Chapter 11
+- Should we have a president: yes, with less power
+- How long serve: years with no limit on terms; now 2 terms
+- How to choose: elect
+- Powers: limited expressed popwers
+- Delegated powers: powers given to president by congress
+- Inherent powers: not specified but implied
+- Negotiate agreements with nations
+- Some believe power should be unlimeted
+- Imperial presidency: too powerful presidents!
+- Can also seem very weak
+- Commander in chief: manages wars
+- Lead role in foreign affairs
+- Veto bills
+- Signing statements: bill criticisms
+- Appoints branch leaders
+- Federal agency guidelines
+- Smooth running economy
+- Manage the public
+- Vice president: in case president died
