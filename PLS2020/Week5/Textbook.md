@@ -1,0 +1,41 @@
+# Chapter 10
+- Congress holds powers:
+  - Financial (raise taxes)
+  - Legal (citizenship laws, issue money, etc)
+  - Institutional (organize branches, postal system, etc)
+  - National defense
+- Bicameral
+  - Two houses
+  - Larger house represents democracy (central and quick responses)
+  - House of Representatives (435 members)
+  - Senate (100 members, two from each state)
+    - Any senator can hald a bill by placing "legislative hold" on it
+    - Review presidential appointments
+    - Treaties
+- Congress reflecting more minorities
+  - Women too
+  - Catholics more prevelant than they used to be
+  - Jews too
+- Descriptive representation: reflects race, background
+- Substantive representation: reflects your interests
+- Trustee view: chooses what's best for you, even if you don't think it is
+- Delegate view: vote directly from constituents
+- Members should pursue substantive interests
+- Members actually just do what they want, and say what they want their audience to hear
+- Most members of congress spend their time in their district
+- City on a hill is where the capitol building is
+- $174,000 for house and senate members
+- $223,500 for house speaker
+- House is led by speaker
+- Senate elect majority leader
+- House and senate can introduce a bill draft
+- Sponsors don't usually write the bill
+- Committee hearing of 5 minutes
+- Rewrite bills in markup sessions
+- Barely any bills make it
+- Unanimous consent necessary
+- Vote with yea or nay or present
+- President can veto
+- Lobbyists pay people to get their bill
+
+# Chapter 11
