@@ -1,0 +1,67 @@
+# Tuesday
+- Why is it important to examine political instructions
+  - Plays a central role
+- How do institutions interact
+  - Important to understand outcomes
+- What are the undemocratic elements
+- What impacts do they have
+- Racial undertones and ramifications
+- Where is US congress located
+  - Washington, DC
+- What are the powers of congress
+  - Article 1
+- How does congress check and get checked
+  - Senate confirms presidential nominees
+  - Power over money
+  - Power of judicial branch
+  - Override vetos
+  - President can create treaties
+  - But congress must ratify it (senate)
+- How is congress structured and how are members selected
+  - Every two years
+- Two legislative chambers why?
+  - Big states and small states
+- Which chamber has more powers and why?
+  - Senate
+- Which is less democratic?
+  - Senate
+- Does congress reflect in terms of race and stuff
+  - No! But becoming more representative
+  - Not all senators are minorities
+- Why are women and minorities underrepresented?
+  - ?
+- What is the difference between trustee and delegate model and which better
+  - Delegate: do what the people in district tell you what to do
+  - Trustee: make your own decisions even if against the majority
+- How many seats are in the house of representatives
+- What are the main responsibilities of congress
+  - Making laws
+  - Amending
+  - Voting
+  - Checking powers
+  - Impeaching
+- What roles do congressional staff play
+  - Doing most of the work
+  - Most end up as lobbyists
+- How does bill become law
+  - Same bill in house and senate
+  - Must agree
+  - Voting a LOT
+- Why is congress so unpopular
+  - Everyone hates congress
+  - Disfunctional!
+- Why is it disfunctonal
+  - Hardly ever gets things done
+  - Because that's how it was designed; didn't want an efficient machine
+  - The checks and balances make things hard
+- What is gridlock
+  - Polarization
+- Why is it so polarized
+- What is divided government
+  - Democratic president and republican senate
+  - Even more gridlock
+- What difference does it make
+  - Won't agree on anything
+- How is power allocated in congress
+  - Some people have way more power
+  - Leaders in parties
