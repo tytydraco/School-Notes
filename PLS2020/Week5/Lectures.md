@@ -65,3 +65,43 @@
 - How is power allocated in congress
   - Some people have way more power
   - Leaders in parties
+
+# Thursday
+- Filibuster: can keep talking until done
+- Senate can file a closure to stop the filibuster
+- Exceptions
+  - Presidential nominations
+  - Reconciliation: budget spending limits etc
+- Why so much more often
+  - Passed a bill: allow filibuster to go BUT now senate can keep working on other stuff; less pressure
+  - Goes against "majority rules"
+- Should the filibuster be eliminated or reformed?
+  - It's the only thing that gives the minority power
+- Powers given to president?
+  - Article 2
+  - Commander in chief, veto legislation, nominates judges
+- How does partisan control affect president?
+  - Senate can deny stuff in different political party
+- Powers are growing because of WW2
+- Does he have too much power
+  - Maybe
+- Who elects the president
+  - Electoral college
+  - People vote for representatives to vote for president
+- Electoral college
+  - People vote for this
+  - It is possible to win even without the popular vote
+  - But it gives more power to small states
+- What are faithless electors
+  - Electoral college voters vote against the request
+- How many electoral votes are there: 270
+- How can it be eliminated
+  - An amendment to the constitution
+- How can it be nullified
+  - National Popular Vote Movement
+- What are political orders
+  - Creates huge thing
+  - Like a before FDR after FDR
+- What factors affect presidential power
+  - stuff
+- 
