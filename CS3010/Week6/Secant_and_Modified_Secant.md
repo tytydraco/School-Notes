@@ -7,3 +7,4 @@
 - Instead of two guesses, one guess and one fractional value
   - If too small, round off error
   - If to big, inefficient
+![](img/modified_secant_method.png)
