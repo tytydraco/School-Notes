@@ -1,0 +1,38 @@
+# Ch 13
+- First level of courts: district
+- 100m legal actions a year
+- Federal court
+  - Lower court: trails
+  - Appellate court: appeals
+  - Supreme court: final verdict
+- District court judges appt by president
+- Circuit courts: 13 appellate courts
+- Specialized courts too for military and tax and terrorism
+- Federal judges do NOT REFLECT POPULATION DIVERSITY
+- To take dispute to fed court from 2 diff states, 75k USD at least
+- Judicial review: check if actions violate constitution
+- Judicial activism: actively reviewing branches
+- Judicial restraint: only as a last resort overturn
+- Civil law: two parties
+- Criminal law: self explan
+- Plaintiff: the person charging them
+- Defendant: sued person
+- Judiciary has no influence over military
+- There is no electoral base
+- Hearing case: for oral arguments
+  - Open to the public
+- Rule of four: four judges have to vote to hear a case
+- Abide by previously decided cases
+- Mostly decided on justice's beliefs
+- 
+
+# Ch 3
+- The PEOPLE are the law makers
+- At first we wanted elected representatives with checks and balances
+- Direct initiative: californians can propose amendments and laws WITHOUT governors help
+- Indirect: lawmakers amend the citizen proposals
+- 75% of proposals fail to even qualify
+- Not many people have the money to propose a law
+- People with $3 to $7 million can propose one
+- Recall: vote, then choose relacement via ballot
+- too long
