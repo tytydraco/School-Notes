@@ -1,0 +1,45 @@
+# Tuesday
+- Which article of const gives judicial branch
+  - Article 3
+- How are federal judges selected
+  - President nominates, senate approves
+  - Serve for life
+- What powers to Judicial branch
+- What is judicial review
+  - Court has power to review is something is constitutional or not
+  - Can strike down that law
+- Is judicial review granted by the constitution?
+  - No! Not explicitly at least. It's implicit
+- Where does Judicial Review come from
+  - Marshall vs Madison or something
+- Do they have too much power?
+  - Depends
+- Can it be undemocratic
+  - How judges are selected is super non democratic
+  - Lifetime appointments
+- What is the structure of the federal court
+  - Trial courts (94)
+  - Appeals(13)
+  - High court supreme court
+  - Most cases are not heard
+- Do judges reflect population
+  - No, mostly white males
+ - How many supreme justices are there
+   - 9
+ - Can there be more?
+   - Yes! Nothing says you cant have more or less
+ - How do judges decide which they will hear
+   - If it makes a big difference
+   - Or if theres multiple interpretations, settling differences
+ - How to judges make decisions
+   - Depends on their interpretation
+   - Rarely all agree
+ - Are they objective and independent
+   - Nope
+   - Judges vote and participate in one of the teams
+   - There is no objective zone
+ - How has supreme court ideology changed
+   - They have strong views on how the constitution should be interpreted
+   - Shifting right
+
+# Thursday
