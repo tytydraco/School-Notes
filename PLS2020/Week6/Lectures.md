@@ -43,3 +43,57 @@
    - Shifting right
 
 # Thursday
+- Do LGBTQ get full rights between everyone else
+  - Anybody can get married
+  - 1/3 experience discrimination
+- Does Civil Rights ACt 1964 protect LGBTQ
+  - Yes? Idk
+- Can employers fire LGBTQ for gay
+  - Court says no! It violates 1964 act
+- Do businesses have the right to deny service
+  - Not decided yet
+- What type of political system does CALIFORNIA have
+  - We also have DIRECT democracy, vote directly on initiatives without middle man
+  - We still have representatives as well
+- When was direct democracy initiated in California
+  - 1911
+- What was the original purpose of it
+  - Interest groups like RailRoad corporations
+  - Give power to the people instead of companies
+- Do you think people make better decisions than representatives
+  - Maybe?
+- What is a direct initiative
+  - Someone who proposes a law
+- Who can propose one
+  - Any registered voter
+- Signatures needed?
+  - 5% of # of people who voted last year
+- Can they be overturned or amended
+  - Yes if unconstitutional
+  - Future initiatives can amend
+- Criticisms of initatives?
+  - Expensive, controlled by special interests, etc
+  - Too many! complex, etc
+- What are the most important
+  - Prop 13: property tax cant be over 1%, 2/3rd majority needed to increase taxes
+  - Prop 140 and 28: term limits
+  - Prop 184: 3 strikes law
+  - Prop 187: illegal immigrants cant use public services
+  - Prop 11 and 20: redistricting commissioning; gerrymandering
+  - Prop 8: marriage between man and woman
+  - Prop 14: Top two primary
+  - Prop 64: weed
+- Refferendums: passed legislation and then people wanna strike it down
+  - Prop 67: plastic bag veto
+  - Prop 25: remove cash bail
+- Recall: we can remove them from office early
+  - At state level: only happened 9 times and suceeded 6 times
+  - 12% of people of previous position
+  - Davis removed and replaced, was successful ONCE, replaced with movie star Arnold
+  - Why was recall for Newsom so serious: covid
+  - Newsom recall failed
+  - Democrats dominate almost all elections
+  - Larry Elder baddd and trumpy so he was a bad alterative
+- Should recall law be amended
+  - Expensive..
+  - Threshold should be higher: 40% of people needed instead
