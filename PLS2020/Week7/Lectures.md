@@ -1,0 +1,63 @@
+# Tuesday
+- Structure of state legislator
+  - Bicameral, two chambers
+  - Assembly and state senate
+- How many Assembly members and how many state senators
+  - Assembly: 80 2y
+  - Senators: 40 4y
+- How many state reps does Cali have
+  - 2, one in assembly and one in state senate
+  - **For project you can write to either of them**
+- Who are OUR representatives
+  - Go to the website in the folder on Canvas
+  - Patricia Bates
+  - Trisha blah blah
+- Which initiatives had the biggest impact on Cali State Legislature
+  - Prop 1A: professionalize state legislature
+    - Used to be part time, now it's year round
+  - Prop 140: Can serve 12 years total, can split it up between assembly and state senate
+  - Prop 14: Top two primary
+  - Prop 25: Civil majority instead of 2/3 to pass budget changes and tax increases
+- What are primary responsibilities
+  - Proposing, amending, signing, hearing, voting, etc
+  - Meeting with activists, etc
+  - Win elections and run for office, campaigning, etc
+- How many seats do democrats and republicans hold
+  - 31:9 dem to rep for senate
+  - 59:19 dem to rep for assembly
+- Who is over and underrepresented
+  - White males over
+  - Latin and women under
+- What type of executive branch does California have
+  - Plural executive branch
+  - Elected instead of nominated
+  - Gavin Newsom has the most power
+  - ALL democrats at the moment
+- How many electives
+  - Who were the last 5:
+  - Jerry, governator, Davis, Wilson
+- Primary responsibilities of governor
+  - Executes the law, oversees law, etc
+  - Priorities and directs
+  - Emergency control
+- How is it determined if heard in federal or state court
+  - Depends if its for federal laws or state laws
+- What is the purpose of California state court system
+  - Fair and equal justice
+  - Make sure it's constitutional and lawful
+- How are state court judges selected in Cali
+  - Must practice law for 10y
+  - Appointed by governor
+- What is the structure of court system
+  - 3 tiers
+  - 58 trial courts
+  - 6 appeal courts
+  - supreme court
+- Do the judges reflect demographics in CA
+  - No, mostly while males still
+- Biggest problems of justice system in CA
+  - Overcrowding
+  - Lack of funding
+  - Going back into prison again after
+
+# Thursday
