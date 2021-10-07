@@ -59,5 +59,46 @@
   - Overcrowding
   - Lack of funding
   - Going back into prison again after
+  - Racial disparities
 
 # Thursday
+- Why are they so overcrowded
+  - Three strikes and you're out law
+  - Mandatory sentencing
+  - Enhances penalty for repeat offenders
+  - Lack of funding
+- What has Cali done to reduce overcrowding
+  - Realignment: taking nonviolent offenders out
+  - Prop 36
+  - Prop 47
+  - Prop 57
+  - Reducing penalty for nonviolent offenders
+- Why are there racial disparities in inmates
+  - Racism
+- Incorporated vs unincorporated?
+  - Incorporated: Live in cities
+  - Unincorporated: Outside of cities
+- How are counties governed
+  - Governed by boards of supervisors
+- How are boards of supervisors selected
+  - Every four years
+- Who represents you?
+  - Use that nice website
+- Board of supervisors
+  - They do everything
+  - If the fed gov shut down, then the local gov will replace most of it
+  - If local area shuts down its havoc
+  - They get a lot of money from federal and state gov
+- Cities governed by city counsel
+- General law city vs charter
+  - Charter have more control
+  - City follows federal law
+- Cities get money from charges for living here, less money from property taxes
+- Most city expenses are from public safety, etc
+- What does fiscalization of land use mean
+  - Prop 13: limited property taxes to 1%
+  - Most cities get money from property taxes
+  - Why are we lacking houses: this is why
+  - City decides what to do with the land in the city
+  - A lot of cities will create commercial stuff like hotels to make money
+- Meetings every monday
