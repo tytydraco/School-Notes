@@ -51,7 +51,30 @@
 - Young generations trust officials more than fellow citizens
 
 # Ch 7 BTP
--
+- The media in a democratic system:
+  - Informs the public
+  - Public watchdog, scrutinizes government for mistakes
+  - Reveals the public agenda / what the public finds important
+- Media reinforces existing opinions
+- Newspapers are in decline
+- Radio is still poplar
+  - A lot of conservative radio talk
+  - NPR is sponsored by government
+- Podcasts are popular with new gens
+- Television used to be mostly informative
+- Dangerous where news are trying to be entertaining
+- Polarizes
+- JFK first did the radio
+- CNN first 24/h news channel
+- Reporters may be biased in reporting
+- Bias comes from appeal to advertisers
+- Print media protected for free speech
+- Radio used to require equal time for politics, not anymore
+- FCC repealed net neutrality
+- During wars, journalism can give the enemy confidence that they are winning
+- Some images are too extreme
+- Campaigning sound bites last way shorter
+- 
 
 # Ch 10 CP
 -
