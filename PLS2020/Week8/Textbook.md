@@ -74,7 +74,18 @@
 - During wars, journalism can give the enemy confidence that they are winning
 - Some images are too extreme
 - Campaigning sound bites last way shorter
-- 
 
 # Ch 10 CP
--
+- Political disengagement heavily based on race/ethnicity and nativity
+- Lower education and income = less voting chances
+- The top 1% can afford high education
+- The top 15% earn about 89,000 per household
+- The top 39% earn 66,000 for housing and health care
+- 42% of people are struggling
+- 3% are disenfranchised
+- People don't know much until a scandal happens
+- Data on social media lacks context
+- Democrats value news as a watchdog
+- Republicans see it as impeding them doing their jobs
+- Californians vote with their wallets
+- Special interest groups protect their own interests
