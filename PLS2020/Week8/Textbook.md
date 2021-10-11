@@ -1,0 +1,57 @@
+# Ch 6 BTP
+- Political socialization caused by
+  - Parents and friends
+  - Education
+  - Gender
+  - Race
+  - Religion
+  - Life events
+- Political party is usually kept for life
+- Economic self interest
+- Political elite influences
+- Wars and tragedies
+- Public polls are good predictors for presidency
+- Polling
+  - Random sample that reflects population
+  - Sample age, education, income, race, gender
+  - Choose people who will likely vote
+  - Time it where all generations will be available
+  - Avoid framing the question in bias
+  - Phrase the question poorly
+  - Young people are hard to survey, need to use tech
+  - Bigger sample size, less error
+- Bandwagon effect: people join a cause because popular
+- Boomerang effect: people are so sure of win that they might not show up
+- The masses do not answer consistently or correctly
+- The people might not even know what they want
+- Hard to communicate what people want
+- Leaders keep an eye on approval ratings
+- Leaders keep an eye on what the people think is important
+- Traditional participation: voting, rallies, voicing opinions
+- Civic voluntarism: work together to donate, volunteer, etc for a cause
+- Direct action: demonstrations, marches, riots, etc
+- American voting rates are low: barriers?
+- Older people vote more than younger people
+- Higher income, higher voting
+- Education -> voting
+- Race plays a role
+- Family can help you vote
+- Why is voter turnout low
+  - Held on tuesdays
+  - too many elections
+  - primary elections
+  - registering to vote is boring
+- Some feel alienated
+- Literacy tests: difficult voting questions
+- Do not vote because they are satisfied
+- Tech helps activism
+- OR: bad because companies can control free speech
+- Din: noise online
+- Misinformation and trolling
+- Young generations trust officials more than fellow citizens
+
+# Ch 7 BTP
+-
+
+# Ch 10 CP
+-
