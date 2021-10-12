@@ -1,0 +1,61 @@
+# Tuesday
+- What is public opinion
+  - What the majority thinks
+- What is the will of the American people
+  - What most people want
+- How do individuals form their political opinions
+  - News
+  - Family
+  - Self-interest
+  - Race and ethnicity
+  - Parents
+  - Education
+  - Finance
+  - Life events
+- Why and how does public opinion shift
+  - World events
+  - Technology and science changes
+  - Learn things we didn't know before
+- What are examples of public opinion change
+  - Marijuana: medicinal values and benefits
+  - Same sex marriage: interest groups and advocacy
+- How do you measure public opinion
+  - Surveys
+- Are surveys reliable
+  - Mostly
+- What are the main challenges of surveys
+  - Getting the main demographics
+  - Income groups
+  - Etc
+- Should public opinion guide public policy
+  - People who lobby are not representative of all groups
+  - Bill Clinton used surveys
+- What needs to be met if public opinion should guide government
+  - Don't have all the information
+  - People use heuristics (parents, news, etc instead of research)
+  - Emotions get in the mix
+- What are the different types of political participation
+  - Voting
+  - Lobbying
+  - Protests
+- Are certain types of participation more effective
+  - Voting is the most important
+- Which groups participate more than others
+  - Older people
+  - Higher income / education
+  - White people > AA
+- What explains why individuals do not participate
+  - World events, parents
+- What discourages political participation
+  - Alienation
+- What are the consequences of alienations
+  - Apathy and anger
+  - Violence
+- What are the views of younger generations
+  - More liberal, less participations, more independant
+- What does the exclusive electorate
+  - People who vote
+- What does the five Californias refer to
+  - ?
+
+# Thursday
