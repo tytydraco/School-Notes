@@ -59,3 +59,50 @@
   - ?
 
 # Thursday
+- What are the consequences of alienation
+  - Trump gave voices for them
+  - High violence
+- What are the views of youngsters
+  - Less engaged
+- Executive elector
+  - The common trends
+- Five Californias
+  - Five different groups
+  - 1%
+  - 15%
+  - 39%
+  - 42%
+- What are the consequences of executive electorate / five Californias
+  - Gap in income
+  - Does not represent young people
+- Why is it important to free press
+  - Otherwise government manipulates people
+  - People keep gov in check
+- Structure of media landscape?
+  - Privately owned
+  - Public airways, PBS, NPR are gov owned
+  - Most people get news from private
+- Three functions of media
+  - Provides info
+  - Watching officials
+  - Shape views
+- Is media biased
+  - Yes
+  - Very fragmented
+  - Profit driven biased, advertising
+- How has media evolved
+  - Quicker, more controversial, made to get clicks
+- What is the fastest growing political news
+  - Social media
+- How much time do people spend consuming entertainment
+  - 11/h a day
+- What is fake news
+  - Blatantly not true
+- What are the effects of these trends
+  - Ad tracking, depression, etc
+  - Polarization
+  - Echo chambers
+- How is media regulated in USA
+  - Public airways and radio stations are regulated if government owned
+  - Makes sure there is competition
+  - Very little regulation on the internet
