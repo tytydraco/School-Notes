@@ -11,6 +11,7 @@
   - Chain together multiple trapezoidal rules
 - If we use equidistant partitions, we can shorten this formula!
   - Assume h = (b - a) / n
+  - n = number of points minus 1
   - h should remain the same then
   - h/2 * sum from 0 to n-1 of [f(x_i) + f(x_i+1)]
 
