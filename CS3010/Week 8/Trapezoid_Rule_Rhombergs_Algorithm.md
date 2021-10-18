@@ -17,3 +17,4 @@
 
 ## Error
 - Error = -( (b - a) / 12 ) * h^2 * f''(e)
+- To account for the largest possible error, use the max e for |f''(e)|
