@@ -28,6 +28,15 @@
 
 - The Fifth Party System emerged with the New Deal Coalition.
 
-
-
 # California Politics
+- Californians think they make better decisions than officials
+- Political parties in California are struggling not prospering
+- No Party Preference people usually swing the elections
+- Democrats are ethnically diverse
+- Republicans are white and higher income
+- Bipartisan gerrymanders are when both sides agree to maintain the status quo
+- Closed primary: only voters with their party affiliation can vote in their own party's elections
+- Top two primary: may choose all candidates and choose one who doesn't share affiliation
+- Voters choice act in 2016: all mail vote
+- VoteCal: 16 and 17 can pre-register
+- Motor voter law: auto registered to vote when renew driver's license unless they opt out
