@@ -1,0 +1,47 @@
+# Tuesday
+- Interests groups
+  - Have interests and combine forces to achieve it
+- Types:
+  - Economic
+  - Citizen/Public
+- Role?
+  - Critical
+  - How they assert power via elections
+  - We support X candidate
+  - Have a lot of money
+- Pos or neg role?
+  - Not all are bad
+  - Not black and white
+- Are all Americans represented equally (pluralism)
+  - People with less money are not represented
+  - Not all people are represented
+- What role can interest groups play concerning your policy proposal
+  - Creating an interest group gets stuff done
+- What role do political parties play
+  - Nominating candidates
+  - Mobilizing people make people vote
+- Why do we have two party
+  - We have winner-take-all
+  - Difficult for third parties
+- What is the new deal coalition
+  - FDR created it
+  - Dominated for 30-40 years
+  - Six party system
+- Demise
+  - Civil Rights Movement
+- Southern Strategy
+  - Increase political support among white voters
+  - Helped push the republican party to the right
+  - More racist stuff and state rights
+- What is an ideology
+  - Conservative: anti-change
+  - Liberals: evolutions
+- How has country's ideology shifted
+  - 1930's left shift
+  - 1970's right shift
+  - More right shift right now
+- Party affiliation
+  - More people leaning towards democratic
+  - Doesn't always represent ideology
+
+# Thursday
