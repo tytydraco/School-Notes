@@ -45,3 +45,49 @@
   - Doesn't always represent ideology
 
 # Thursday
+- Who are the leaders
+  - Trump is republican leader
+  - Biden is democratic leader
+- Divisions?
+  - ?
+- Divisions in the democratic party impacting bills
+  - Between centrist and democrats
+- Why is Cali dominated by democrats
+  - Latinx population and lower income people
+- What should the Republican Party do to gain power in California
+  - Break away from the heavy conservative
+- What des it mean that California is a Democratic stronghold but weakly partisan
+  - Political parties don't matter that much
+- Why does Cali have the lowest voting rate
+  - Other countries have mandatory voting
+  - Difficult and complicated roadblocks
+- Constitution gives more power to the states
+- Some states have auto registration and deadlines for voting, restrictions if a felony
+- Some states have only mail voting
+- What accounts for incumbency
+  - Name recognition
+- Money spent on elections
+  - A lot
+- Where does it come from
+  - Small donations and large donations
+- Consequences of 2010 citizens united supreme court
+  - Can spent as much money as you need
+- How much money did Super-PACs make
+  - 2 billion dollars
+- What is gerrymandering
+  - Census redistricts states
+  - No racism! But not partisan consideration always
+- Impacts of districts
+  - A lot of homogenous districts
+- Which party has more role in it
+  - Republicans
+- Voter turnout in 2020 was very high
+- Was the election stolen: no
+- Was it fraudulent: no
+- Why do so many republicans believe that
+  - Trump and manipulation
+- Jan 6th 2021
+  - Election stolen -> raid
+- Is trump responsible for it
+  - Maybe incited it
+- People trying to address non existing fraud 
