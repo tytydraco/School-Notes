@@ -39,3 +39,23 @@
   - During covid its super high
 
 # Thursday
+- What is the main objectives in the reconciliation bill
+  - Increase taxes on the wealthy
+  - $5.6 trillion to debt
+- How significant
+  - HUGE
+- What impact does foreign policy have on the rest of the world
+  - We support dictators and we're responsible for the chaos
+- What are the major differences in Democrats and republicans
+  - Democrats: United nations and foreign relations
+  - Republicans: America first policies
+- We spend a lot on military
+- What are the biggest failures
+  - Vietnam war
+  - Iraq war
+  - Afghanistan war
+- How much debt fro war on terror
+  - $8 trillion
+  - 900,000 deaths
+- Is the US a superpower in decline
+  - Yes
