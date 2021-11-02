@@ -1,0 +1,38 @@
+# Tuesday
+- What is economic inequality
+  - Economic inequality
+- Wealth equality vs income inequality?
+  - How much total wealth vs how much earn
+- How does the U.S. compare?
+  - We are worse than Europe
+- How did the recession affect
+  - Hit the white middle class hard
+- How about Cali?
+  - 5th worst
+- How has cost of living increased
+  - Prices are increasing very fast
+- Causes?
+  - Worse mobility
+  - Racism and inequality
+  - Gender pay gap
+  - Covid
+  - Globalization
+  - Decline in unions
+  - Less tax on top 1%
+- How much has it cost American Workers
+  - Trillions went to top 1%
+- Gilded Era
+- Is American Dream dead
+  - Less true
+- What are the political consequences
+  - Anger is COMING from economic inequality
+- How to reverse
+- Reconciliation bill?
+  - It would reduce but its not passing
+- Four horsemen
+  - Mass-mobilization warfare
+  - Transformative revolutions
+  - State collapse
+  - Catastrophic plagues
+
+# Thursday
