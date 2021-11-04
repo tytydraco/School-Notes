@@ -36,3 +36,26 @@
   - Catastrophic plagues
 
 # Thursday
+- What is the significance of the Immigration and Nationality act of 1965
+  - Much more diverse
+  - Multicultural
+- Why do people migrate
+  - The American Dream
+- What is xenophobia and history
+  - Waves of immigrants and people are afraid of taking jobs
+- How has Covid-19 heightened xenophobia
+  - China virus
+- What % of workers are immigrants
+  - 26%
+- What is the most common way people illegally enter
+  - Overstay their visa
+- What is the most common country of origin
+  - Mexico
+  - Now more Asians
+- Economic impact
+  - On the right, negative
+  - On left, neutral or positive
+  - 77% say immigration is a good thing
+- What is public opinion of giving undocumented immigrants getting citizenship
+- Obama created DACA
+- 
