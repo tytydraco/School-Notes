@@ -15,5 +15,6 @@
 - D: The diagonal matrix
 - U = DL
 - A = LU
-- LU = LDL
+- LU = LDLT
+- LT is the inverse matrix of L
 - Same but must be symmetrical and extract diagonal from upper into a separate matrix
