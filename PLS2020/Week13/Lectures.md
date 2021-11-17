@@ -1,0 +1,87 @@
+# Tuesday
+- How many Americans die from guns yearly
+  - 39,000, 100 a day
+- What is the most common type of gun violence
+  - Suicide (61%)
+- How does the US compare to other countries
+  - We have like 3x more and its getting worse
+- What are the racial disparities
+  - Blacks by a LOT, especially unarmed
+- What are mass shootings
+  - Multiple victims of shooting (at least 4 ppl)
+- How does the US compare
+  - We account for 1/3 of the world's shootings
+- What are the most common weapons
+  - Semi-auto pistols and rifles, with high-capacity mags
+- When have the deadliest shootings ocurred
+  - Las Vegas
+  - Orlando nightclub
+  - Virginia tech
+  - Sandy hook
+- Why do we have so much more
+  - Culture
+- How any guns we got
+  - Half of all worldwide guns
+- Why do we have so many guns
+  - Culture
+  - Least restrictive laws
+- Why do we have the least restrictive laws
+  - Culture
+  - Second amendment
+- Does it protect an INDIVIDUAL right to bear arms
+  - Yes? No?
+- Law experts
+  - They say NOT
+- Gun laws at the federal level?
+  - 2008, 2nd amendment DOES give an individual the right
+- Last major gun control law passed
+  - 1994
+- Does Heller allow governments to restrict firearms?
+  - Gray area, not clear
+- What are the gun laws on the federal level
+  - Regulate production and purchase etc
+  - Interstate commerce
+  - Gun free zone schools
+  - Background checks
+  - Banned semi-autos that look like ARs
+  - Right to conceal carry by police
+- What gun control legislation are Dems pushing
+  - Outlaw private and online sales
+  - Increase check
+- Likelyhood of passing?
+  - Filibuster means it's unlikely
+- More or less control?
+  - Polarized down the middle
+- Expert opinions?
+  - We need universal licensing laws and registration
+  - List like vehicles
+  - Helps keep guns out of the wrong hands
+  - Training and safety measures
+  - Most people don't realize that even after taking the mag out there is still a bullet in the chamber
+- Why haven't we passed any regulations supported by the public?
+  - NRA
+  - Cultivated relationship with Republicans
+- Why has the NRA been so successful?
+  - Filibuster
+- How do gun laws differ by state
+  - Big differences, plenty of regulations
+  - Universal background laws
+  - Sell to non-residents
+  - Non-training
+  - Conceal carry
+  - College campuses
+  - Red-flag laws
+- Do gun laws lead to less violence
+  - Fewer suicides and murders
+  - Per-capita
+- Main arguments by NRA for less or more gun control
+  - Armed civilians take out the bad guys
+  - Criminals will still get the guns illegally
+- Firearms lobby argue against gun control?
+  - They want more people with guns
+- Do more guns lead to less violence?
+  - Well we have the most guns and also the most violence so...
+- Does allowing conceal carry lead to less violence
+  - Inconclusive and limited evidence
+
+# Thursday
