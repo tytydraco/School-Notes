@@ -85,3 +85,30 @@
   - Inconclusive and limited evidence
 
 # Thursday
+- What % of women will get abortion
+  - 25%
+- Leading reasons?
+  - Unintended pregnancy
+- Death greater than birth?
+  - Much more likely to die from child birth
+  - Except unsafe abortions
+- What protects abortions
+  - Roe v. Wade
+- Political impact?
+  - Huge! Upsets Christians and conservatives
+- Other important supreme court decisions
+  - Planned parenthood
+  - Whole Women's Health
+- What have states done to restrict
+  - After 6 weeks / heartbeat
+  - Laws violate Roe v. Wade on purpose
+- How has the Supreme Court reacted to Texas
+  - First nothing, now fixing
+- Expectations of Supreme Court anticipating abortion?
+  - Make it more and more difficult slowly over time
+- What would happen if Roe v. Wade is overturned
+  - States would decide restrictions
+  - Make it even worse than it is now
+- Main arguments for and against
+  - Pro choice: babies can't live on their own
+  - Pro life: we can't choose the baby
