@@ -1,0 +1,56 @@
+# Tuesday
+- Latest numbers
+  - Almost over till the fall, delta variant
+  - 59% fully vaxxed
+  - Republican states are less vaccinated
+- Secondary impacts
+  - Mental health crisis
+  - Gun ownership ++
+  - Recession, huge impact on economics
+  - Housing market went up
+  - Politics ++
+- Getting covid?
+  - Lower income --> higher rates of covid
+- Long term
+  - Getting behind on education
+- How does the US compare in how they handled it
+  - 773,000 deaths
+  - 70 - 75% of people could have been saved if we handled things differently
+  - Highest in the world of contractions
+  - We are the worst in a lot of areas
+- Why did we fail
+  - President Trump messed it up really bad
+  - He had the power and ability but failed
+- How did he fail
+  - Downplayed the issue
+  - Hands-off approach
+  - He responded this way for re-election
+  - He didn't want to hurt the economy
+- How did his response to Covid-19 affect his re-election
+  - People did not trust him to handle it
+- What roles
+  - Broken health system
+- CDC
+  - Totally failed, allowed people to get on and off planes
+- Core values
+  - FrEEDOM
+- Anti government views
+- US federalism
+- What responsibility did China have
+  - Didn't do anything soon enough
+- WHO?
+  - Is very weak and has no power
+- Nonconventional global threats??
+  - We NEED the WHO but they are ineffective
+- Has spending added to debt
+  - Yes
+- Has spending increased inflation
+  - Yes
+- Why not vaccinate?
+  - Protests and pushing too hard and echo chambers and misinformation
+- How soon till we go back to normal
+  - Vaccines to get to 90% safety
+- Why is it important to not go back to normal
+  - Create a whole new normal
+  - This was very predictable, we ignore experts
+  - Other ppl affect the freedom of you by not getting vaccinating
