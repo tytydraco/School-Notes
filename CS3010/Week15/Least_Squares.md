@@ -5,10 +5,12 @@
 # How
 - Create table of x, y, x^2, xy
 - Sum it up at the bottom
-- N equals number of points
-- ![](img/slope.png)
-- ![](img/int.png)
-- Assemble into y = mx + b format!
+- ![](img/err.png)
+- Take derivitives with respect to a, b
+- ![](img/least.png)
+- for (m+1), just replace with number of items
+- This gets you 2 equations; solve them systems of equations
+- Once you get a, b, fit to the y = mx+b form
 
 # How (polynomials)
 - Will hold form y = a + bx + cx^2 + ... + *x^k
