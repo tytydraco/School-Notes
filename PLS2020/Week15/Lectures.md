@@ -1,0 +1,60 @@
+# Tuesday
+- What is climate change
+  - Gas causing heat
+- Are humans the primary cause
+  - Yes
+- Is there a consensus about weather climate change is real
+  - Yes
+- How much has cliate change increased since industrial revolution?
+  - 0.2C per decade
+  - Significantly warmer in the artics
+- Who / what is responsible
+  - USA is #1
+  - China is #2
+- Potency
+  - Carbon dioxide, methane, coal, etc
+  - Electricity contributes the most
+- Impacts?
+    - Greenhouse effect: increase CO2 therefore heat
+    - Glaciers melt and cause floods
+    - Longer drouts
+    - Smog causes asthma and lung cancer
+    - Wild fires increasing and getting worse
+    - More extreme weather
+- Who suffers most?
+  - Some places get longer growing seasons and more trade so thats good
+  - Land thaws and we get more natural resources
+  - Low income ppl
+- Have efforts been successful
+  - Paris agreement and another one that starts with a k
+  - So far it has TOTALLY failed
+  - Paris agreement and the other one were useless
+- Why did they fail
+  - Fossil fuel and power: more fuel gives them more political power, people want to buy from them
+- How likely is it that the Paris agreement will be successful?
+  - Extremely unlikely
+  - It is just a very weak institution with no incentives
+  - Why? Because they don't want to create a strong one
+  - Voluntary pledges, lays out plan, no penalty if fail
+- We need to limit to 1.5C at most 2C
+- What role has the US played in limit climate
+  - Unanimous agreement to NOT join the agreeement
+  - Instead created an even worse agreement
+  - Then Trump left Paris agreement
+- Why has the US played a negative rule
+  - Fossil fuels
+  - Fed. gov has done very little
+  - A lot of jobs and profits in fossil fuel industry
+  - Conservative movement? They are also trying to avoid talking about it (less gov. interaction)
+  - Media and tech: manipulate / persuade to not take it seriously
+  - Polarization: either a big issue or no issue, no compromise, just gridlock
+- Public opinion?
+  - Only half of people think that adults contribute a great deal
+  - Only 63% of people think humans have ANYTHING to do w/ it
+  - 2/3 people think gov is doing too little
+  - Planting a trillion trees: 90% ppl agree
+  - A lot of consistent and strong opinions on asking the fed gov to help
+- States that are dependent on fossil fuels?
+  - Gives the coal states just as much power as the big states, so we lock up
+
+# Thursday
