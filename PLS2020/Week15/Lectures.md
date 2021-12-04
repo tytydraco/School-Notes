@@ -58,3 +58,40 @@
   - Gives the coal states just as much power as the big states, so we lock up
 
 # Thursday
+- What was Obama's record concerning climate change
+  - Mixed, good and bad, focused more on health care
+  - Second time around he signed the Paris agreement
+- Trump
+  - Really bad, ramped up the fossil fuels and killed Paris agreement
+- Biden
+  - Back in Paris agreement
+  - Unrealistic goal
+- What has he done to acheive this?
+  - Infrastructure bill
+  - Build back better act
+- Infrastructure bill
+  - Public transit
+  - Bipartisan
+- Build back better act
+  - Investments in children and failies
+  - Social spending
+  - School programs
+  - Tax credits
+- Why have BBB act climate change been weakened
+  - Republican Joe wants to take out climate change things because West Virginia depends on coal
+  - Corruption
+- What are states doing
+  - Targets to reduce greenhouse gasses
+  - Make carbon more expensive
+  - Electricity standards
+  - Efficiency standards
+- California?
+  - We are the leader, most ambitious
+  - Reduce to 1990 levels
+  - 40% below 1990 levels
+  - 80% below 1990 levels
+  - California Cap and Trade rules
+- Why is CA taking so much costly action
+  - 1) Liberal state ideology
+  - 2) Not dependent on fossil fuel industry
+  - 3) Co-benefits: good for atmosphere and economy
